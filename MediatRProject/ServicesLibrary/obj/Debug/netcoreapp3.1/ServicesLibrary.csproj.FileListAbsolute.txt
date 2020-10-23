@@ -1,0 +1,8 @@
+C:\Users\f.freij\Desktop\MediatR\MediatRProject\ServicesLibrary\obj\Debug\netcoreapp3.1\ServicesLibrary.AssemblyInfoInputs.cache
+C:\Users\f.freij\Desktop\MediatR\MediatRProject\ServicesLibrary\obj\Debug\netcoreapp3.1\ServicesLibrary.AssemblyInfo.cs
+C:\Users\f.freij\Desktop\MediatR\MediatRProject\ServicesLibrary\obj\Debug\netcoreapp3.1\ServicesLibrary.csproj.CoreCompileInputs.cache
+C:\Users\f.freij\Desktop\MediatR\MediatRProject\ServicesLibrary\bin\Debug\netcoreapp3.1\ServicesLibrary.deps.json
+C:\Users\f.freij\Desktop\MediatR\MediatRProject\ServicesLibrary\bin\Debug\netcoreapp3.1\ServicesLibrary.dll
+C:\Users\f.freij\Desktop\MediatR\MediatRProject\ServicesLibrary\bin\Debug\netcoreapp3.1\ServicesLibrary.pdb
+C:\Users\f.freij\Desktop\MediatR\MediatRProject\ServicesLibrary\obj\Debug\netcoreapp3.1\ServicesLibrary.dll
+C:\Users\f.freij\Desktop\MediatR\MediatRProject\ServicesLibrary\obj\Debug\netcoreapp3.1\ServicesLibrary.pdb
